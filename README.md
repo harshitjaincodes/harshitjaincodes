@@ -96,8 +96,7 @@ An alumni networking platform featuring:
 - Strengthen DSA & Problem Solving Skills
 - Build 5 Major Projects
 - Contribute to Open Source
-- Secure a Software Development Internship
-- Strengthen C++ and System Design Fundamentals
+- Secure a Internship
 
 ---
 
