@@ -85,10 +85,8 @@ An alumni networking platform featuring:
 
 ## 📊 GitHub Stats
 
-![Harshit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=harshitjaincodes&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=harshitjaincodes&layout=compact)
-
+![Harshit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=harshitjaincodes&show_icons=true&cache_seconds=1800)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=harshitjaincodes&layout=compact&cache_seconds=1800)
 ---
 
 ## 🔥 Current Goals for 2026
