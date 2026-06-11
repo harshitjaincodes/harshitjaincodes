@@ -11,21 +11,19 @@
 </p>
 
 ---
-
-## 🚀 About Me
+### 🚀 About Me
 
 🎓 B.Tech CSE Student at BML Munjal University
 
 💻 Currently Learning:
-- C Programming
-- C++
-- Data Structures & Algorithms
+ C++,
+ Data Structures & Algorithms
 
-🌱 Exploring:
-- Problem Solving
-- Competitive Programming
-- Open Source
-- Software Development
+🌱 Interested In:
+ Problem Solving,
+ Competitive Programming,
+ Open Source,
+ Software Development
 
 🏆 Hackathon Participant
 
@@ -36,20 +34,14 @@ Become a skilled Software Engineer and build impactful products.
 
 ## 🛠️ Tech Stack
 
-### Languages
-- C
-- C++
-- Python
-
-### Tools
-- Git
-- GitHub
-- VS Code
-
-### Currently Learning
-- Data Structures & Algorithms
-- Object-Oriented Programming
-- Problem Solving
+<p>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+</p>
 
 ---
 
@@ -85,8 +77,11 @@ An alumni networking platform featuring:
 
 ## 📊 GitHub Stats
 
-![Harshit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=harshitjaincodes&show_icons=true&cache_seconds=1800)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=harshitjaincodes&layout=compact&cache_seconds=1800)
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=harshitjaincodes&show_icons=true&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshitjaincodes&layout=compact&theme=tokyonight" />
+</p>
+
 ---
 
 ## 🔥 Current Goals for 2026
@@ -97,16 +92,21 @@ An alumni networking platform featuring:
 - Secure a Internship
 
 ---
+## 🤝 Connect With Me
 
-## 📫 Connect With Me
-
-📧 Email: harshitjain0904@gmail.com
-
-💼 LinkedIn:
-www.linkedin.com/in/harshit-jain-34a267385
-
-💻 LeetCode:
-[harshitjaincodes](https://leetcode.com/u/harshitjaincodes/)
+<p align="center">
+  <a href="mailto:harshitjain0904@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" width="45" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/harshit-jain-34a267385">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="45" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://leetcode.com/u/harshitjaincodes/">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/leetcode.svg" width="45" />
+  </a>
+</p>
 
 ---
 
