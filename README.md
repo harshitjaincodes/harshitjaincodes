@@ -110,4 +110,4 @@ An alumni networking platform featuring:
 
 ---
 
-⭐ "Consistency beats intensity. One commit at a time."
+<h3 align="center">⭐ Consistency beats intensity. One commit at a time.</h3>
