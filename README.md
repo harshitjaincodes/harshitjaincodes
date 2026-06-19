@@ -102,10 +102,7 @@ An alumni networking platform featuring:
   <a href="https://www.linkedin.com/in/harshit-jain-34a267385">
     <img src="https://skillicons.dev/icons?i=linkedin" width="45" />
   </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://leetcode.com/u/harshitjaincodes/">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/leetcode.svg" width="45" />
-  </a>
+ 
 </p>
 
 ---
