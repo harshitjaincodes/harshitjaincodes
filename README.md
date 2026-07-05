@@ -78,9 +78,9 @@ An alumni networking platform featuring:
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=harshitjaincodes&show_icons=true&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=harshitjaincodes&show_icons=true&theme=tokyonight&cache_seconds=1800" />
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=harshitjaincodes&layout=compact&theme=tokyonight" />
-</p> 
+</p>
 
 ---
 
@@ -92,7 +92,7 @@ An alumni networking platform featuring:
 
 ---
 
-## 🔥 Current Goals for 2026
+## 🔥 Current Goals
 
 - Strengthen DSA & Problem Solving Skills
 - Build 5 Major Projects
