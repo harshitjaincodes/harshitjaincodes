@@ -84,6 +84,14 @@ An alumni networking platform featuring:
 
 ---
 
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=harshitjaincodes&theme=tokyonight&hide_border=false" />
+</p>
+
+---
+
 ## 🔥 Current Goals for 2026
 
 - Strengthen DSA & Problem Solving Skills
