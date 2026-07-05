@@ -77,10 +77,16 @@ An alumni networking platform featuring:
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=harshitjaincodes&show_icons=true&theme=tokyonight&cache_seconds=1800" />
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=harshitjaincodes&layout=compact&theme=tokyonight" />
-</p>
+<table border="0">
+  <tr>
+    <td>
+      <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=harshitjaincodes&show_icons=true&theme=tokyonight&cache_seconds=1800" />
+    </td>
+    <td>
+      <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=harshitjaincodes&layout=compact&theme=tokyonight" />
+    </td>
+  </tr>
+</table>
 
 ---
 
