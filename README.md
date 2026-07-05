@@ -75,13 +75,13 @@ An alumni networking platform featuring:
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=harshitjaincodes&show_icons=true&theme=tokyonight&cache_seconds=180" style="margin: 5px;" />
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=harshitjaincodes&layout=compact&theme=tokyonight&cache_seconds=180" style="margin: 5px;" />
-</div>
-
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=harshitjaincodes&show_icons=true&theme=tokyonight&card_width=450&cache_seconds=180" />
+  <br><br>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=harshitjaincodes&layout=compact&theme=tokyonight&card_width=450&cache_seconds=180" />
+</p>
 ---
 
 ## 🔥 GitHub Streak
