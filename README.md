@@ -80,7 +80,8 @@ An alumni networking platform featuring:
 <p align="center">
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=harshitjaincodes&show_icons=true&theme=tokyonight" />
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=harshitjaincodes&layout=compact&theme=tokyonight" />
-</p>
+</p> 
+
 ---
 
 ## 🔥 Current Goals for 2026
