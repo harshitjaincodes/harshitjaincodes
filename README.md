@@ -82,6 +82,7 @@ An alumni networking platform featuring:
   <br><br>
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=harshitjaincodes&layout=compact&theme=tokyonight&card_width=450&cache_seconds=180" />
 </p>
+
 ---
 
 ## 🔥 GitHub Streak
